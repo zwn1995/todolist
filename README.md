@@ -7,4 +7,7 @@
     区分已完成和未完成事项
     可以删除事项
     
-   ![screenshots]()
+   ![screenshots](https://raw.githubusercontent.com/zwn1995/todolist/master/screenshots/1.png)
+   ![screenshots](https://raw.githubusercontent.com/zwn1995/todolist/master/screenshots/2.png)
+   ![screenshots](https://raw.githubusercontent.com/zwn1995/todolist/master/screenshots/3.png)
+   
